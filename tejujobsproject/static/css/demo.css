@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  color:orange;;
+}
+img{
+  height: 200px;
+  width: 20%;
+  margin: 1.5%;
+  border: 2px solid green;
+
+}
+p{font-size: 50px;
+color:blue;}
+#sp,td{
+  border:2px solid #f442d1;
+  text-align: center;
+  background: #6ef441;
+  color:rgb(244, 65, 65);
+}
+th{
+  background: #b841f4;
+  font-size: 20px;
+  color:black;
+  border:#f44141;
+}
+body{
+  background-image:url(/static/images/image19.jpg);
+  background-repeat:no-repeat;
+  background-size:100%;
+
+}
+h1:hover{
+  color: orange;
+  border:5px red groove;
+  font-size: 70px;
+}
+a:visited{
+  color:green;
+}
